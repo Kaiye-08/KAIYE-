@@ -1,4 +1,4 @@
-<h1 align="center">🦊 Khushi Rajurkar</h1>
+<h1 align="center">🦊 Kaiye</h1>
 <p align="center"><i>Engineer by logic, dreamer by design. I build the improbable.</i></p>
 <p align="center"><i>Code. Debug. Plot. Repeat.</i></p>
 
@@ -20,7 +20,7 @@ while(alive) {
 
 🪄 Logic + Creativity make each other whole
 
-👩🏻‍🏭 Currently job hunting 
+👩🏻‍🏭 Currently creating content {it's challenging but fun too!}
 
 👩🏻‍💻 Tech Stack
 ---
